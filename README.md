@@ -166,7 +166,7 @@ TN-2026-Election-Analysis/
 ├── analysis.py                        # Reproducible Python analysis (run this first)
 ├── TN_2026_Election_Analysis.pptx     # 9-slide stakeholder deck
 
-│
+
 ├── data/                              # Original ECI source data
 │   ├── tn_2026_results.csv            # 4,257 rows — all candidates, 2026
 │   ├── tn_2021_results.csv            # 4,232 rows — all candidates, 2021
